@@ -9,3 +9,6 @@ function inicializarMapa() {
     opcoesMapa
   );
 }
+
+function adicionarMarcador(latitude, longitude, titulo) {
+}
