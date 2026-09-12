@@ -1,0 +1,12 @@
+docs\enunciado: PDF e materiais fornecidos.
+docs\decisoes: anotações de planejamento e decisões do projeto.
+public\assets\icons e public\assets\images: imagens estáticas.
+src\components: partes visuais reutilizáveis.
+src\config: configurações, incluindo a futura configuração da API Maps.
+src\data: dados locais usados pelo projeto.
+src\features\mapa: funcionalidade principal do mapa.
+src\services: comunicação com APIs externas.
+src\styles: estilos globais e específicos.
+src\utils: funções auxiliares.
+tests\manual: roteiro para testar o funcionamento no navegador.
+
