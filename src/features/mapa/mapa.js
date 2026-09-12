@@ -11,6 +11,14 @@ function inicializarMapa() {
     opcoesMapa
   );
 
+  mapa.addListener("click", (evento) => {
+    adicionarMarcador(
+      evento.latLng.lat(),
+      evento.latLng.lng(),
+      campoTitulo.value
+    );
+  });
+
   return mapa;
 }
 
